@@ -1,5 +1,7 @@
 # README
 
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/allevo/gathering?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/allevo/gathering.svg?branch=master)](https://travis-ci.org/allevo/gathering)
 [![NPM](https://nodei.co/npm/gathering-daemon.png)](https://nodei.co/npm/gathering-daemon/)
 
